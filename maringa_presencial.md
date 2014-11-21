@@ -590,7 +590,7 @@ digraph confounding {
 
 ---
 
-# O que muita gente faz
+# O clássico
 
 * Busca
 * Todos os título
@@ -604,14 +604,40 @@ digraph confounding {
 
 # Método Ágil
 
+* Escrita antes
+* Revisão para validar (ou não) a escrita
+
+---
+
+# Método Ágil - continuação
+
 * Foco em artigos chave
-* Busca 
+* Buscas
+    * posterior
+    * anterior
+    * related
+* A cada artigo encontrado
+    * ler, 
+    * avaliar qualidade
+    * extrair *resultados*
 
+---
 
+Workshop
+
+---
+
+# Buscas booleanas
 
 ---
 
 # Workshop
+
+---
+
+# Ferramentas para gerenciamento da bibliografia
+
+
 
 
 ---

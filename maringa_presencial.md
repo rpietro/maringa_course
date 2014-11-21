@@ -1,11 +1,16 @@
 # Publicações Internacionais e Internacionalização
 
-## Ricardo Pietrobon e João Ricardo Vissoci
+## Ricardo Pietrobon, João Ricardo Vissoci, Adélia Batilana, Elias Carvalho
 
 
-<!-- Check survey areas 
-Area e nome das pessoas e projetos
- -->
+
+---
+
+# Objetivos
+
+* Histórico
+* Princípios básicos
+* Curso personalizado 
 
 
 ---
@@ -108,6 +113,13 @@ Area e nome das pessoas e projetos
 * inglês escrito e falado
 * compromisso - você está sendo testado
 
+---
+
+# Personalização
+
+* análise e plano de carreira
+* apresentações a potenciais colaboradores, nacionais e internacionais
+
 
 ---
 
@@ -117,29 +129,146 @@ Area e nome das pessoas e projetos
 
 ## Pesquisas que outros podem reproduzir
 
+* Crise em todas as áreas ciêntíficas
+* Ioannidis
 
 ---
 
+# Fases
+
+* Dados
+* Scripts
+* Literate programming e sites com gráficos dinâmicos
+* Versionamento
+
+---
+
+# Dados[^5]
+
+
+![inline](figshare.png)
+
+
+[^5]:[Figshare](http://figshare.com/)
+
+---
+
+# Scripts[^8]
+
+![inline](r-script.png)
+
+[^8]:[Data, etc. The nuts and bolts from research to policy in social sciences](http://tomschenkjr.net/blog/using-sublime-text-2-for-r/)
+
+---
+
+# Literate programming[^7]
+
+![inline](rmarkdown.png)
+
+[^7]:[R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com/)
+
+<!-- Rmarkdown and corresponding pdf -->
+
+---
+
+# Versionamento[^6]
+
+<!-- github -->
+
+![inline](github.png)
+
+
+[^6]:[Github](https://github.com/)
+
+
+---
+
+# Medo!!!!!!
+
+* dado é poder
+* perda de controle
+* perspectiva
+    * crédito quando dados usados por outros
+    * oportunidades de colaboração
+    * meta-dados e contexto
+
+
+---
+
+# Meta-análises dinâmicas - Semantic Web
+
+
+---
+
+# Meta-análises dinâmicas - Semantic Web
+
+* Tradicional
+    * lento
+    * opinião única
+    * enviesada ([Juni, 1999](http://jama.jamanetwork.com/article.aspx?articleid=191652))
+
+
+---
+
+# Lucas Teixeira
+
+![inline](lucas.jpg)
 
 ---
 
 # Meta-análises dinâmicas
 
----
-
-
----
-
-# Modelos para predizer o futuro
+* [Aplicativo](http://ppv1.hc.fm.usp.br/dynamic-meta-analysis/)
 
 ---
 
+# Meta-análises dinâmicas - vantagens
+
+* velocidade de translação 
+* "empower" usuários, sejam eles profissionais da saúde, gestores e pesquisadores
+
 
 ---
 
-# Gráficos dinâmicos para pares científicos e o público em geral
+# Comunicação visual - Companion sites
 
 ---
+
+# Funções
+
+* Exploração estática e dinâmica
+* Interação dinâmica em "companion sites"
+* Publicidade para o grupo de pesquisa
+* Oportunidades de internacionalização
+
+
+---
+
+# Companion sites - D3
+
+* [Grouped vs stacked](http://bl.ocks.org/mbostock/raw/3943967/)
+* [Streamgraph](http://bl.ocks.org/mbostock/raw/4060954/)
+* [Sunburst partition](http://bl.ocks.org/mbostock/raw/4063423/)
+* [Radial Reingold–Tilford Tree](http://bl.ocks.org/mbostock/raw/4063550/)
+
+---
+
+# Companion sites - D3
+
+* [Treemap](http://bl.ocks.org/mbostock/raw/4063582/)
+* [Parallel coordinates](http://mbostock.github.io/d3/talk/20111116/iris-parallel.html)
+* [Geographical connections](http://mbostock.github.io/d3/talk/20111116/airports.html)
+* [Hierarchical edge bundling](http://mbostock.github.io/d3/talk/20111116/bundle.html)
+
+---
+
+# Companion sites - D3
+
+
+* [Bar hierarchy](http://mbostock.github.io/d3/talk/20111116/bar-hierarchy.html)
+* [Social networks](http://mbostock.github.io/d3/talk/20111116/force-collapsible.html)
+* [Cloropeth](http://bl.ocks.org/mbostock/raw/4060606/)
+* [Tree layout](http://mbostock.github.io/d3/talk/20111018/tree.html)
 
 
 ---
@@ -414,26 +543,27 @@ digraph confounding {
 
 * Receitas
 * [Equator Network]()
-    * [STROBE]()
-    * [CONSORT]()
-    * [PRISMA]()
-    * {{QUALITATIVE}}
+    * [STROBE](http://www.strobe-statement.org/)
+    * [CONSORT](http://www.consort-statement.org/)
+    * [PRISMA](http://www.prisma-statement.org/)
+    * [COREQ](http://intqhc.oxfordjournals.org/content/19/6/349.long)
+
 
 ---
 
-# [STROBE]()
+# [STROBE](http://www.strobe-statement.org/)
 
 ---
 
-# [CONSORT]()
+# [CONSORT](http://www.consort-statement.org/)
 
 ---
 
-# [PRISMA]()
+# [PRISMA](http://www.prisma-statement.org/)
 
 ---
 
-# {{QUALITATIVE}}
+# [COREQ](http://intqhc.oxfordjournals.org/content/19/6/349.long)
 
 ---
 
@@ -463,13 +593,19 @@ digraph confounding {
 # O que muita gente faz
 
 * Busca
-* Título
-* Insere
+* Todos os título
+* Todos os abstracts
+* Todos os full-text papers
+* Avalia qualidade de cada artigo
+* Decide sobre próximo ciclo
 
 
 ---
 
 # Método Ágil
+
+* Foco em artigos chave
+* Busca 
 
 
 

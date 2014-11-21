@@ -2,6 +2,12 @@
 
 ## Ricardo Pietrobon e João Ricardo Vissoci
 
+
+<!-- Check survey areas 
+Area e nome das pessoas e projetos
+ -->
+
+
 ---
 
 # Roteiro

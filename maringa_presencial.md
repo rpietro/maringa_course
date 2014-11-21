@@ -620,4 +620,76 @@ digraph confounding {
 
 ---
 
+# Toolbox
+
+<!-- insert figure with toolbox representation -->
+
+---
+
+# Trading Zones / Zonas de Trocas
+
+* Zonas proximais de aprendizagem
+* Intercambio entre conhecimentos = Toolbox
+
+---
+
+# Tipos de dados
+
+* Numéricos
+* Categóricos
+
+---
+
+# Etapas
+
+* Exploratória e Factabilidade
+* Modelagem e Contextualização
+
+<!-- Risada Maligna - MUAHAHAHA -->
+
+---
+
+# Análise Exploratória e Factabilidade
+
+<!-- Foto de analise exploratoria -->
+
+---
+
+# Modelagem e Contextualização - Numéricos
+
+<!-- Vários graficos de diferents tipos de graficos e analises de dados númericos -->
+
+---
+
+# Modelagem e Contextualização - Avaliações e Psicometria
+
+<!-- Vários graficos de diferents tipos de graficos e analises de dados númericos -->
+
+---
+
+# Modelagem e Contextualização - Revisão Sistemática e Metaanalise
+
+<!-- Metanalise, Metassumarizacão, Rede, QCA -->
+
+---
+
+# Modelagem e Contextualização - Categóricos/Qualitativos
+
+<!-- Redes, QCA, Sentimento, LSA -->
+
+---
+
+# Modelagem e Contextualização - Métodos mistos
+
+<!-- SD, Redes, QCA Exemplos -->
+
+---
+
+# Modelagem e Contextualização - GIS
+
+<!-- Mapas e mais mapas -->
+
+
+---
+
 # Workshop

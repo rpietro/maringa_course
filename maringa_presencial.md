@@ -646,36 +646,56 @@ Workshop
 
 ---
 
-# Toolbox
-
-<!-- insert figure with toolbox representation -->
-
----
-
 # Trading Zones / Zonas de Trocas
 
 * Zonas proximais de aprendizagem
 * Intercambio entre conhecimentos = Toolbox
 
+![inline](http://wwweducacionalcombr1.cdn.educacional.com.br/imagens/entrevistas/interativa/educadores_pais/AchillesGraficoIMG.jpg)
+
 ---
 
-# Tipos de dados
+# Toolbox
+
+![inline](http://www.e-bas.com.au/wp-content/uploads/2014/08/bigstock-Toolbox-35082965-1024x853.jpg)
+
+<!-- insert figure with toolbox representation -->
+
+
+---
+
+# Input
 
 * Numéricos
 * Categóricos
+* Formato do banco de dados
 
 ---
 
 # Etapas
 
 * Exploratória e Factabilidade
+
 * Modelagem e Contextualização
+
+![inline](https://lh4.googleusercontent.com/-fYy88Qrj0Gc/VG_xxCucWLI/AAAAAAAAJ3I/MSX3bq-eSW8/w497-h351-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.04.53%2BAM.png)
 
 <!-- Risada Maligna - MUAHAHAHA -->
 
 ---
 
+# Output
+
+* Figuras
+* P-valores
+* Betas
+* Métricas
+
+---
+
 # Análise Exploratória e Factabilidade
+
+![inline](http://www.epa.gov/caddis/images/scattermat.png)
 
 <!-- Foto de analise exploratoria -->
 
@@ -683,17 +703,49 @@ Workshop
 
 # Modelagem e Contextualização - Numéricos
 
+![inline](https://lh3.googleusercontent.com/-USThYTuzd6E/VG_xwzCYN0I/AAAAAAAAJ3A/DODYVD4zYek/w540-h347-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.04.13%2BAM.png)![inline](https://lh5.googleusercontent.com/-3008ZkwzOes/VG_xxD4kKGI/AAAAAAAAJ3E/HSqKiK4xBGo/w604-h277-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.04.34%2BAM.png)
+
 <!-- Vários graficos de diferents tipos de graficos e analises de dados númericos -->
 
 ---
 
+# Modelagem e Contextualização - Modelos Preditivos
+
+![inline](https://lh3.googleusercontent.com/-aKT1eGY7qCg/VG_xzAb-P-I/AAAAAAAAJ38/v8bRia5rXSY/w636-h243-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.06.57%2BAM.png)
+
+<!-- Vários graficos de diferents tipos de graficos e analises de dados númericos -->
+
+
+---
+
 # Modelagem e Contextualização - Avaliações e Psicometria
+
+![inline](https://lh4.googleusercontent.com/-Jf3gdY-FskM/VG_xxt-I18I/AAAAAAAAJ3c/5pDhTTGnxU8/w571-h332-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.05.16%2BAM.png)![inline](https://lh4.googleusercontent.com/-vWu1q1z8enk/VG_xyDi_H9I/AAAAAAAAJ3k/ZCRxSjN_c2g/w479-h349-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.06.02%2BAM.png)
+
+---
+
+# Modelagem e Contextualização - Modelagem de Variáveis Latentes
+
+![inline](https://lh6.googleusercontent.com/-KVEq0y1GWE8/VG_xyKB30vI/AAAAAAAAJ3g/cdRAIB-41jI/w600-h217-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.05.38%2BAM.png)
+
 
 <!-- Vários graficos de diferents tipos de graficos e analises de dados númericos -->
 
 ---
 
 # Modelagem e Contextualização - Revisão Sistemática e Metaanalise
+
+![inline](https://lh4.googleusercontent.com/-XmD9vAUYIG4/VG_xy8tUaeI/AAAAAAAAJ30/2GyWVgPdyBo/w578-h343-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.06.36%2BAM.png)
+
+
+<!-- Metanalise, Metassumarizacão, Rede, QCA -->
+
+---
+
+# Modelagem e Contextualização - Revisão Sistemática e Metaanalise
+
+![inline](https://lh4.googleusercontent.com/-kOhypU_y2t0/VG_x0PFiOcI/AAAAAAAAJ4I/5FqK-tbPmRg/w817-h355-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.09.09%2BAM.png)
+
 
 <!-- Metanalise, Metassumarizacão, Rede, QCA -->
 
@@ -703,15 +755,28 @@ Workshop
 
 <!-- Redes, QCA, Sentimento, LSA -->
 
+![inline](http://blog.pacifictranscription.com.au/wp-content/uploads/2013/08/Leximancer_slide12.jpg)![inline](http://blog.quadrigram.com/wp-content/uploads/2012/11/sentiment_analysis_blog_pic3.png)
+
+---
+
+![inline](https://lh5.googleusercontent.com/-UEcfpfbo5yM/VG_x0y8E2XI/AAAAAAAAJ4U/oPwkt9QIDU4/w816-h358-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.09.33%2BAM.png)
+
+
 ---
 
 # Modelagem e Contextualização - Métodos mistos
 
 <!-- SD, Redes, QCA Exemplos -->
 
+
+![inline](http://msb.embopress.org/content/msb/10/10/757/F4.large.jpg)![inline](https://lh4.googleusercontent.com/-iaa0mE21Rq4/VG_x1G6R_mI/AAAAAAAAJ4Y/VsTEhzdcVWY/w677-h509-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.11.21%2BAM.png)
+
 ---
 
 # Modelagem e Contextualização - GIS
+
+![inline](https://lh6.googleusercontent.com/-D86f31uz5uA/VG_xzXIjysI/AAAAAAAAJ4E/dyBEEqYZJiE/w453-h366-no/Screen%2BShot%2B2014-11-22%2Bat%2B12.07.15%2BAM.png)![inline](https://lh4.googleusercontent.com/-y6gbS7R6xGc/VHBlB7WypEI/AAAAAAAAJ5g/3FyYXBMKkJY/w676-h367-no/Screen%2BShot%2B2014-11-22%2Bat%2B8.26.50%2BAM.png)
+
 
 <!-- Mapas e mais mapas -->
 
@@ -719,3 +784,10 @@ Workshop
 ---
 
 # Workshop
+
+---
+
+# [www.orientado.com.br](http://www.strobe-statement.org/)
+
+ ![inline](https://lh6.googleusercontent.com/-f2wBUF--yY0/VHBn3pmb7DI/AAAAAAAAJ50/q500OWTkkgc/w915-h509-no/Screen%2BShot%2B2014-11-22%2Bat%2B8.38.07%2BAM.png)
+
